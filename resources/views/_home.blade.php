@@ -15,7 +15,7 @@
         </a>
       </nav>
       <div class="row section-1__row">
-        <div class="col-md-6">
+        <div class="col-md-6 order-2 order-md-1">
           <div class="card card-body border-0">
             <div class="my-auto">
               <h1 class="font-bb">Build your app and grow your business with us.</h1>
@@ -27,7 +27,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-6">
+        <div class="col-md-6 order-1 order-md-2">
           <div class="card card-body bg-transparent border-0">
             <img class="undraggable bounce" src="{{ asset("svg/section/section-1.svg") }}" width="518" height="360">
           </div>
