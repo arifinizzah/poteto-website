@@ -6,7 +6,7 @@
   <section class="section-1">
     <div class="container">
       <nav class="navbar navbar-light bg-white pt-3">
-        <a class="navbar-brand font-ms" href="#">
+        <a class="navbar-brand font-ms" href="/">
           <img src="{{ asset('img/poteto_favicon.png') }}" class="undraggable d-inline-block align-top" alt="">
           <span class="navbar-title display-4 ml-md-2">Omni Poteto</span>
         </a>
