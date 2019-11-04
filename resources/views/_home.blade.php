@@ -10,6 +10,9 @@
           <img src="{{ asset('img/poteto_favicon.png') }}" class="undraggable d-inline-block align-top" alt="">
           <span class="navbar-title display-4 ml-md-2">Omni Poteto</span>
         </a>
+{{--        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">--}}
+{{--          <span class="navbar-toggler-icon"></span>--}}
+{{--        </button>--}}
         <a href="https://github.com/poteto-dev">
           <img src="{{ asset('svg/icon/github.svg') }}" class="undraggable ml-auto github-svg d-none d-md-block" width="40" height="40" alt="">
         </a>
