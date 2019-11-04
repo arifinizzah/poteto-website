@@ -272,3 +272,11 @@ body {
   border-top-color: #F6A39B;
 }
 
+.section-3 {
+  min-height: 100%;
+}
+
+.section-3 .container {
+  min-height: 100vh;
+}
+

@@ -180,3 +180,10 @@ html,body {
   border-width: 5px 5px 0;
   border-top-color: $salmon-pink;
 }
+
+.section-3{
+  min-height: 100%;
+  .container{
+    min-height: 100vh;
+  }
+}
