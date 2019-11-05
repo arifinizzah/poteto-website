@@ -95,7 +95,11 @@
 
   <section class="section-3">
     <div class="container">
-
+      <div class="section-3__title">
+        <h3 class="subtitle">SOME OF OUR</h3>
+        <h1 class="title">CLIENTS</h1>
+        <span class="text-bg">CLIENTS</span>
+      </div>
     </div>
   </section>
 
